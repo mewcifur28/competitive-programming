@@ -2,4 +2,4 @@
 ## Bitmasking
 ## Mathematics
 ## Recursion and Backtracking
-## STL - miscallenous
+## STL - miscellaneous
