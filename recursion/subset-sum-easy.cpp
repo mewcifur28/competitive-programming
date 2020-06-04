@@ -33,11 +33,9 @@ bool isSumZero(vector<int> v, long long int sum = 0, int index = 0, int count = 
         //cout << sum << " ";
         return (sum == 0 && count > 0);
     }
-    sum += v[index];
-    if (isSumZero(v, sum, index + 1, count + 1)) {
+    if (isSumZero(v, sum + v[index], index + 1, count + 1)) {
         return true;
     }
-    sum -= v[index];
     return isSumZero(v, sum, index + 1, count);
 }
 int main() {
