@@ -1,5 +1,15 @@
 # Contents
 ## Bitmasking
+## Divide and Conquer
+- Backtracking
+- Binary Search
+- Recursion
 ## Mathematics
-## Recursion and Backtracking
+- Combinatrics
+- Matrix Exponentiation
 ## STL - miscellaneous
+- Custom Sorting
+- Maps
+- Priority Queues
+- Sets
+- Vectors
