@@ -4,6 +4,7 @@
 - Backtracking
 - Binary Search
 - Recursion
+- Segment Trees
 ## Mathematics
 - Combinatrics
 - Matrix Exponentiation
