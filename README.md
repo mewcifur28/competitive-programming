@@ -7,8 +7,12 @@
 - Segment Trees
 ## Mathematics
 - Combinatrics
+- Factorisation
+- GCD
 - Matrix Exponentiation
 - Pigeonhole Principle
+- Prime Numbers
+- Probability
 ## STL - miscellaneous
 - Custom Sorting
 - Maps
@@ -18,3 +22,4 @@
 ## Study Material
 - Editorials
 - Notes
+- Tutorials
