@@ -8,9 +8,13 @@
 ## Mathematics
 - Combinatrics
 - Matrix Exponentiation
+- Pigeonhole Principle
 ## STL - miscellaneous
 - Custom Sorting
 - Maps
 - Priority Queues
 - Sets
 - Vectors
+## Study Material
+- Editorials
+- Notes
