@@ -13,6 +13,8 @@
 - Pigeonhole Principle
 - Prime Numbers
 - Probability
+## Policy Based Data Structures
+- Problems solved using PBDS
 ## STL - miscellaneous
 - Custom Sorting
 - Maps
