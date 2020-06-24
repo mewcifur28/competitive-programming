@@ -8,7 +8,7 @@ int main() {
     while (t--) {
         ll n;
         cin >> n;
-        float ans = 0;
+        double ans = 0;
         for (ll i = 1; i <= n; i++) {
             ans += (1/(i * 1.0));
         }
