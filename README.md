@@ -5,6 +5,8 @@
 - Binary Search
 - Recursion
 - Segment Trees
+## Greedy Algorithms
+- Problem solving using Greedy approach
 ## Mathematics
 - Combinatrics
 - Factorisation
