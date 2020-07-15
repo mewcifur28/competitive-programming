@@ -16,7 +16,7 @@ ll nthFiboNum(ll n, vector<ll> &dp) {
 int main() {
     ll n;
     cin >> n;
-    vector<ll> dp(n+1, -1);
-    cout << nthFiboNum(n, dp);
+    vector<ll> dp(n, -1);
+    cout << nthFiboNum(n-1, dp); //0-indexed
     return 0;
 }
