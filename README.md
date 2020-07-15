@@ -5,6 +5,9 @@
 - Binary Search
 - Recursion
 - Segment Trees
+## Dynamic Programming
+- Bottom Up Approach
+- Top Down Approach
 ## Greedy Algorithms
 - Problem solving using Greedy approach
 ## Mathematics
